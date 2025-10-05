@@ -1,4 +1,4 @@
-# COMP3104_Group1_Assignment
+# COMP3104_Group33_Assignment
 ## Group Members
 - **Leader:** Benn Graham (101412278) - [GitHub](https://github.com/BennGraham)
 - **Member 2:** Patrick Millares (101205106) - [GitHub](https://github.com/Infinitewumbo)

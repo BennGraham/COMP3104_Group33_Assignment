@@ -1,4 +1,36 @@
 Benn Graham - 101412278
 101412278_devops.txt
 
-Will add information about the COMP 3104 DevOps course
+# COMP3014 DevOps - George Brown College
+
+The passing grade for this course is a D (50%)
+
+-- ASSESSMENTS --
+
+| Lab Exercises (16% of final grade)
+    - Completion of *8 out of 10* lab Exercises
+    Weeks: [01][02][03][04][05][06] 07  08  09 [10][11][12][13][14][15]
+
+| Lecture Quizzes (8% of final grade)
+    - Best 8 out of 10 are considered.
+    Weeks: [01][02][03][04][05][06] 07  08  09 [10][11][12][13][14][15]
+
+-- ASSIGNMENTS --
+
+| Assignment 1 (16% of final grade)
+    - Group assignment
+    Weeks:  01  02  03  04  05 [06] 07  08  09  10  11  12  13  14  15
+
+| Assignment 2 (10% of final grade)
+    - Individual assignment
+    Weeks:  01  02  03  04  05  06  07  08  09  10  11 [12] 13  14  15
+
+--    EXAMS    --
+
+| Exam 1 (20% of final grade)
+    - Mid-term exam
+    Weeks:  01  02  03  04  05  06 [07] 08  09  10  11  12  13  14  15
+
+| Exam 2 (30% of final grade)
+    - Final exam
+    Weeks:  01  02  03  04  05  06  07  08  09  10  11  12  13  14 [15]

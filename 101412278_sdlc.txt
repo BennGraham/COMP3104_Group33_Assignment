@@ -1,4 +1,8 @@
 Benn Graham - 101412278
 101412278_sdlc.txt
 
-Will add information about importance of learning DevOps in the software development cycle
+DevOps is important to the software development life cycle because it helps connect every stage, from planning and coding to testing, deployment, and maintenance. Instead of development and operations working separately, which can cause delays, miscommunication, and bugs during deployment, DevOps creates a continuous process where code changes can be tested and delivered quickly and reliably.
+
+DevOps shows how automation, collaboration, and feedback improves both speed and quality in software projects. It helps reduce downtime, shortens release cycles, and ensures that updates are delivered smoothly. Continuous Integration and Continuous Deployment (CI/CD) pipelines make it possible to catch bugs early and release updates more often without breaking the system.
+
+DevOps can also improve teamwork. Since everyone shares responsibility for getting software into production, there is less waiting for other teams or miscommunications between differnet teams. Learning DevOps is important because it promotes working smarter, not harder. Knowing how DevOps fits into the SDLC helps developers build better products and keep up with the constant demand for improvement.

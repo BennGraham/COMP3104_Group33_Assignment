@@ -34,3 +34,48 @@ The passing grade for this course is a D (50%)
 | Exam 2 (30% of final grade)
     - Final exam
     Weeks:  01  02  03  04  05  06  07  08  09  10  11  12  13  14 [15]
+
+
+-- Recommended Resources --
+
+https://github.com
+https://travis-ci.com
+https://docker.com
+https://kubernetes.io
+https://sonarqube.org
+
+
+-- IMPORTANT --
+
+| Assignment Policy
+- All assignments must be submitted on the due date based on an instruction given by the
+professor. Late assignment will be penalized 20% per day to a maximum of seven days,
+the weekend included unless the student has notified the professor (via email, phone or in
+person) ahead of the due date that he/she has a valid reason for a late submission.
+
+| Test Policy
+- Students must complete tests and the final exam on the assigned day. If unable to
+complete the test/exam as scheduled, students are required to notify the professor at least
+three days prior to the date, so alternative arrangements can be made. Failure to comply
+with this policy may result in a zero grade.
+- There will be no makeup quiz and lab exercises. If you anticipate missing more than two
+quizzes or lab exercises for serious, major reasons, notify your professor beforehand.
+
+
+-- Topics --
+
+Week 1: Intro, BASH & The CLI
+Week 2: Git, GitHub & More BASH
+Week 3: Version Control for DevOps
+Week 4: Developer Operations Landscape
+Week 5: Hosting SPAs & Work Tracking Tools
+Week 6: Continuous Integration / Continuous Deployment (CI/CD)
+Week 7: Midterm Exam
+Week 8: Intersession Week
+Week 9: CI/CD Pipeline Sequences
+Week 10: Working with Cloud Infrastructure
+Week 11: Automating DevOps & Quality Assurance
+Week 12: DevOps Assembly Lines
+Week 13: Commonly Used DevOps Tech Exposed
+Week 14: Transitioning into the Role of DevOps
+Week 15: Final Exam

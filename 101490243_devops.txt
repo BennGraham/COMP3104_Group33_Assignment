@@ -1,0 +1,50 @@
+Kelvin Shi - 101490243
+COMP3104 DevOps – George Brown College
+
+Course Overview
+
+COMP3104 focuses on understanding the DevOps culture, emphasizing collaboration between developers and operations teams. The course helps students learn how automation, CI/CD pipelines, and cloud deployment improve software reliability and delivery speed.
+
+Assessments
+
+Lab Exercises (16%) – Complete at least 8 out of 10 weekly labs.
+
+Lecture Quizzes (8%) – Best 8 out of 10 scores count toward the final grade.
+
+Assignment 1 (16%) – Group assignment focused on GitHub collaboration and CI/CD setup.
+
+Assignment 2 (10%) – Individual project demonstrating DevOps principles.
+
+Midterm Exam (20%) – Week 7
+
+Final Exam (30%) – Week 15
+
+Core Topics
+
+Week 1–2: Command Line, Git & GitHub basics
+
+Week 3–6: Version control, hosting, and CI/CD fundamentals
+
+Week 9–11: Cloud infrastructure, automation, and QA
+
+Week 13–14: DevOps technologies and professional roles
+
+Recommended Resources
+
+GitHub
+
+Docker
+
+Kubernetes
+
+Travis CI
+
+SonarQube
+
+Policies
+
+Late Assignments: 20% penalty per day (up to 7 days).
+
+Exams: Must be taken on scheduled dates. Notify the professor at least 3 days in advance if conflicts arise.
+
+Labs & Quizzes: No makeup opportunities unless discussed ahead of time.

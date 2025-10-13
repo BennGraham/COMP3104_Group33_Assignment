@@ -1,0 +1,26 @@
+Kelvin Shi - 101490243
+DevOps in the Software Development Life Cycle (SDLC)
+
+Overview
+
+The Software Development Life Cycle (SDLC) is a structured process that guides the planning, development, testing, and deployment of software. Integrating DevOps into the SDLC makes these stages faster, more reliable, and more collaborative.
+
+DevOps Integration
+
+In traditional SDLC models, developers and operations teams often work separately. DevOps bridges that gap by:
+
+Automating builds, tests, and deployments
+
+Enabling Continuous Integration (CI) and Continuous Deployment (CD)
+
+Improving communication between development and IT operations
+
+Benefits
+
+By applying DevOps within the SDLC, teams can:
+
+Release software updates more frequently
+
+Detect and fix issues earlier
+
+Improve product stability and customer satisfaction

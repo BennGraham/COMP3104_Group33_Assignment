@@ -3,7 +3,9 @@ COMP3104 DevOps – George Brown College
 
 Course Overview
 
-COMP3104 focuses on understanding the DevOps culture, emphasizing collaboration between developers and operations teams. The course helps students learn how automation, CI/CD pipelines, and cloud deployment improve software reliability and delivery speed.
+COMP3104 focuses on understanding the DevOps culture, emphasizing collaboration between 
+developers and operations teams. The course helps students learn how automation, CI/CD pipelines, 
+and cloud deployment improve software reliability and delivery speed.
 
 Assessments
 

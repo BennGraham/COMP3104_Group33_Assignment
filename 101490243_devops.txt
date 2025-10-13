@@ -9,13 +9,13 @@ and cloud deployment improve software reliability and delivery speed.
 
 Assessments
 
-Lab Exercises (16%) – Complete at least 8 out of 10 weekly labs.
+Lab Exercises (16%) – Complete at least 8 out of 10 weekly labs
 
-Lecture Quizzes (8%) – Best 8 out of 10 scores count toward the final grade.
+Lecture Quizzes (8%) – Best 8 out of 10 scores count toward the final grade
 
-Assignment 1 (16%) – Group assignment focused on GitHub collaboration and CI/CD setup.
+Assignment 1 (16%) – Group assignment focused on GitHub collaboration and CI/CD setup
 
-Assignment 2 (10%) – Individual project demonstrating DevOps principles.
+Assignment 2 (10%) – Individual project demonstrating DevOps principles
 
 Midterm Exam (20%) – Week 7
 
@@ -45,8 +45,8 @@ SonarQube
 
 Policies
 
-Late Assignments: 20% penalty per day (up to 7 days).
+Late Assignments: 20% penalty per day (up to 7 days)
 
-Exams: Must be taken on scheduled dates. Notify the professor at least 3 days in advance if conflicts arise.
+Exams: Must be taken on scheduled dates. Notify the professor at least 3 days in advance if conflicts arise
 
-Labs & Quizzes: No makeup opportunities unless discussed ahead of time.
+Labs & Quizzes: No makeup opportunities unless discussed ahead of time

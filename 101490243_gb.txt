@@ -4,7 +4,7 @@ George Brown College – Toronto, Ontario
 About the College
 
 George Brown College is one of Toronto’s leading institutions for applied learning.
-It offers hands-on, career-focused programs that connect classroom education with real-world industry experience.
+It offers hands-on, career-focused programs that connect classroom education with real-world industry experience
 
 The Computer Programming and Analysis Program
 
@@ -15,13 +15,13 @@ preparing them for roles in full-stack development, DevOps, and software testing
 
 Why GBC Stands Out
 
-Located in downtown Toronto, close to major tech companies and start-ups.
+Located in downtown Toronto, close to major tech companies and start-ups
 
-Offers co-op opportunities and networking events with employers.
+Offers co-op opportunities and networking events with employers
 
-Provides access to modern labs, cloud tools, and collaborative projects.
+Provides access to modern labs, cloud tools, and collaborative projects
 
 Career Readiness
 
 Graduates leave George Brown with the ability to build, test, and deploy 
-software using industry-standard practices,
+software using industry-standard practices

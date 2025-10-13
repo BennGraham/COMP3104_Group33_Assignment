@@ -4,6 +4,7 @@
 
 - **Leader:** Benn Graham (101412278) - [GitHub](https://github.com/BennGraham)
 - **Member 2:** Patrick Millares (101205106) - [GitHub](https://github.com/Infinitewumbo)
+- **Member 2:** Kelvin Shi (101490243) - [GitHub](https://github.com/KelvinGBC)
 
 ## Project Description
 
@@ -29,7 +30,7 @@ Each member has their own branch named `STUDENTID-Name`. All changes are merged 
 
 1. Form a Group
 
-- [ ] Ensure Group has 3-4 members (unable to find a 3rd member)
+- [X] Ensure Group has 3-4 members (unable to find a 3rd member)
 - [x] Decide on a primary form of communication - Slack
 
 2. Create a GitHub Repository
@@ -55,7 +56,7 @@ Each member has their own branch named `STUDENTID-Name`. All changes are merged 
 - [x] Commit workflow file
 
 6. Making Commits and Creating Files
-   - [ ] Create at least 10 commits (each)
+   - [X] Create at least 10 commits (each)
    - [x] Create 3 specific files
      - [x] Studentid_gb.txt
      - [x] Studentid_devops.txt

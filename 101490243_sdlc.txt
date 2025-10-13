@@ -19,7 +19,7 @@ Improving communication between development and IT operations
 
 Benefits
 
-By applying DevOps within the SDLC, teams can:
+By applying DevOps within the SDLC, teams can
 
 Release software updates more frequently
 
